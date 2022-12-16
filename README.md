@@ -53,7 +53,7 @@
 
 ##### 2. Интеграция видеорекламы.
 
-- Добавляем строчку кода в скрипты [DragonPicker](https://github.com/S1GARETA/Dragon_Picker/blob/main/DragonPicker/Assets/_Scripts/DragonPicker.cs) и [CheckConnectYG](https://github.com/S1GARETA/Dragon_Picker/blob/main/DragonPicker/Assets/_Scripts/CheckConnectYG.cs), чтобы появлялась видео реклама.
+- Добавляем строчку кода в скрипты [DragonPicker](https://github.com/S1GARETA/Dragon_Picker/blob/main/DragonPicker/Assets/_Scripts/DragonPicker.cs) и [CheckConnectYG](https://github.com/S1GARETA/Dragon_Picker/blob/main/DragonPicker/Assets/_Scripts/CheckConnectYG.cs), чтобы появлялась видеореклама.
 
 ```cs
 YandexGame.RewVideoShow(0);
